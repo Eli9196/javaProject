@@ -1,5 +1,4 @@
 package com.tbp.crud.service;
-
 import java.util.List;
 import java.util.Optional;
 
@@ -14,10 +13,12 @@ public class AccountProfileService {
 	@Autowired
 	private AccountProfileRepository userRepository;
 
+	@SuppressWarnings("null")
 	public AccountProfile createUser(AccountProfile user) {
 		return userRepository.save(user);
 	}
 
+	@SuppressWarnings("null")
 	public List<AccountProfile> createUsers(List<AccountProfile> users) {
 		return userRepository.saveAll(users);
 	}

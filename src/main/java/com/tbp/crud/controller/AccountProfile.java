@@ -1,4 +1,7 @@
-package com.tbp.crud.entity;
+package com.tbp.crud.controller;
+
+// Import statements and class definition
+
 
 import javax.persistence.*;
 
@@ -22,6 +25,7 @@ public class AccountProfile {
 	private String httpImageLink;
 
 	public AccountProfile( String name,String surname,String httpImageLink) {
+		
 		this.name = name;
 		this.surname = surname;
 		this.httpImageLink = httpImageLink;
