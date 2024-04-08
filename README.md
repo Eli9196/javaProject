@@ -102,8 +102,7 @@ public class SpringBootCrudJpaH2Application {
 
 Reach out to me at one of the following places!
 
-- Facebook at <a href="https://www.facebook.com/rajanikanta.pradhan1" target="_blank">`Rajanikanta`</a>
-- Youtube at <a href="https://www.youtube.com/c/TechBulletinPrime" target="_blank">`@Tech Bulletin Prime`</a>
+- Facebook at <a href="https://www.facebook.com/thembinkosi.nhlanhla.5 " target="_blank">`ElijahNhlanhla`</a>
 
 
 ---
